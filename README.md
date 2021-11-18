@@ -1,8 +1,8 @@
-1- to build the docker image: docker build .
+1- To build the docker image: docker build .
 
-2- to run an instance from a docker image:  run -p 8585:8585 -it 205 
+2- To run an instance from a docker image:  run -p 8585:8585 -it 205 
 
-* Note: 205 is the first of targeted docker image
+* Note: 205 is the first of targeted docker image id. to detect it must get the image list via docker images command.
 
 * Note: -p used for mapping your client port to docker container listening port
 
