@@ -17,3 +17,4 @@
 - check that it is updated right now: with docker images command
 - docker image push marshalofficial/docker-tutorial:latest
 - Note: you must authenticate to docker hub before, with docker login command
+- On your production server you must docker pull that images, run & enjoy
